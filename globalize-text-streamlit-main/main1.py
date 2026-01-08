@@ -43,8 +43,8 @@ with col1:
                 an AI assistant on any job search question, as well launch an in-depth investigation into\
                 companies that interest you with a single click.")
 
-with col2:
-    st.image(image='TweetScreenshot.png', width=500, caption='https://twitter.com/DannyRichman/status/1598254671591723008')
+# with col2:
+#     st.image(image='TweetScreenshot.png', width=500, caption='https://twitter.com/DannyRichman/status/1598254671591723008')
 
 st.markdown("### Please enter your desired vacancy, your experience and skills")
 
